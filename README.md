@@ -138,6 +138,12 @@ Each task is now saved as a clean, structured item in your Notion project tracke
 
 ---
 
+## 📘 Beginner Guide
+
+🔗 [Download Full Project Guide (PDF)](https://github.com/SachinSavkare/Automating-Task-Tracker-Zapier-Notion-/blob/main/Project%20Guide.pdf)
+
+---
+
 ## 📥 Sample Email Used
 
 You can view the original sample email used in this project here:  
